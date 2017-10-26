@@ -1,3 +1,3 @@
 # Ruby program for print hello
 
-print "Hello World"
+puts 'Hello World'
